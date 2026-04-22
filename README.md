@@ -7,7 +7,7 @@ Training completed:
 - NVTTI — CCSP Training Course (3 months)  
 - NVTTI — AWS Security Basics (3 months)
 
-🎓 Attended Black Hat Asia 2026 Briefings
+🎓 Attended Black Hat Asia 2026 Briefings<br>
 📄 Reported a potential vulnerability to Apple (under review)
 💡 I'm passionate about learning and growing in cybersecurity.<br><br>💡 I turn complex security problems into actionable solutions.
 
