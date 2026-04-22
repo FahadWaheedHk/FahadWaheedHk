@@ -1,5 +1,15 @@
 # 💫 About Me:
-Offensive Security Researcher | Cloud Security Specialist | Bug Bounty Hunter<br><br>I'm Fahad Waheed, a passionate cybersecurity professional from Islamabad, Pakistan. I specialize in web application pentesting, vulnerability research (SQLi, XSS, IDOR, SSRF), and cloud security (AWS, CCSP). I actively hunt for high-impact bugs through bug bounty programs and responsibly disclose vulnerabilities.<br><br>Certified: CISSP | CCSP | AWS Security – Specialty<br>🎓 Black Hat Asia 2026 Briefings attendee<br>📄 Apple Security Reports acknowledged<br><br>💡 I turn complex security problems into actionable solutions.
+Offensive Security Researcher | Cloud Security Specialist | Bug Bounty Hunter<br>I'm Fahad Waheed, a cybersecurity student from Islamabad, Pakistan.
+I'm learning web application security (SQLi, XSS, IDOR) and cloud security basics.
+
+Training completed:
+- NVTTI — CISSP Training Course (6 months)
+- NVTTI — CCSP Training Course (3 months)  
+- NVTTI — AWS Security Basics (3 months)
+
+🎓 Attended Black Hat Asia 2026 Briefings
+📄 Reported a potential vulnerability to Apple (under review)
+💡 I'm passionate about learning and growing in cybersecurity.<br><br>💡 I turn complex security problems into actionable solutions.
 
 
 ## 🌐 Socials:
