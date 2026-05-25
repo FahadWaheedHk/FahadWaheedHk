@@ -1,17 +1,22 @@
+
 # 💫 About Me:
-Offensive Security Researcher | Bug Bounty Hunter<br><br>I'm Fahad Waheed, a cybersecurity student from Islamabad, Pakistan.
-I'm learning web application security (SQLi, XSS, IDOR) and cloud security basics.
 
-Training completed:
-- NVTTI — CISSP Training Course (6 months)
-- NVTTI — CCSP Training Course (3 months)  
-- NVTTI — AWS Security Basics (3 months)
+Offensive Security Researcher | Bug Bounty Hunter
 
-🎓 Attended Black Hat Asia 2026 Briefings<br>
+I'm Fahad Waheed, a cybersecurity student from Islamabad, Pakistan. I'm learning web application security (SQLi, XSS, IDOR) and cloud security basics. I turn complex security problems into actionable solutions.
+
+**Certifications:**
+* (ISC)² – Certified in Cybersecurity (CC)
+* OPSWAT Academy – Introduction to Critical Infrastructure Protection (ICIP)
+
+**Professional Training Completed:**
+* NVTTI – CISSP Training Course (6 months)
+* NVTTI – CCSP Training Course (3 months)
+* NVTTI – AWS Security Basics (3 months)
+
+🎓 Attended Black Hat Asia 2026 Briefings
 📄 Reported a potential vulnerability to Apple (under review)
-💡 I'm passionate about learning and growing in cybersecurity.<br><br>💡 I turn complex security problems into actionable solutions.
-
-
+💡 I'm passionate about learning, researching, and growing in the cybersecurity domain.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fahad_waheed_hk?igsh=em92eXJ4amw0NG54&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/fahad-waheed-hk-7a128932a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7umJhXYzH) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/fahad_waheed_hk?s=21) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@anonymous-squad1?si=XV9YbQpveCxcPKCv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fahadwaheedhk@protonmail.com) 
 
