@@ -14,7 +14,6 @@ I'm Fahad Waheed, a cybersecurity student from Islamabad, Pakistan. I'm learning
 * NVTTI – CCSP Training Course (3 months)
 * NVTTI – AWS Security Basics (3 months)
 
-🎓 Attended Black Hat Asia 2026 Briefings
 📄 Reported a potential vulnerability to Apple (under review)
 💡 I'm passionate about learning, researching, and growing in the cybersecurity domain.
 ## 🌐 Socials:
